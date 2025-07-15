@@ -37,7 +37,7 @@ fun sorting() {
 fun main() {
     var a = arrays()
     var b = searching()
-    // b.search()
-//a.arrayconcept()
+    b.search()
+a.arrayconcept()
     sorting()
 }
