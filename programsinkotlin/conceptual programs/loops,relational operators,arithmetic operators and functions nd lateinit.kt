@@ -9,7 +9,7 @@ fun main() {
 }
 fun allah() {
 
-    // 1 fo add , 2 for mul
+    // 1 for add , 2 for mul
     var input = 1;
     var a = 1;
     var b = 10;
