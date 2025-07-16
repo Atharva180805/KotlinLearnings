@@ -1,3 +1,5 @@
+package `logical programs`
+
 fun main() {
     val a: String = "noon"
     var isPalindrome = true

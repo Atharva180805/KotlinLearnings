@@ -1,3 +1,5 @@
+package `logical programs`
+
 fun main(){
    var num = 5;
     var factorial = 1;

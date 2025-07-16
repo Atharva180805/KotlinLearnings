@@ -1,3 +1,5 @@
+package `logical programs`
+
 fun main  ()
 {
     var year = 2025

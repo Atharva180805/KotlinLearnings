@@ -1,3 +1,5 @@
+package `logical programs`
+
 //arrays
 //sequential data , set of values.
 open class arrays() {
